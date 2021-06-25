@@ -1,0 +1,2 @@
+# CP-Relay--Website-and-Navigation-Experience
+This repo will focus on bringing all parts of competitive programming together and making them more accessible. Making the pre and post match experience of a competitive programmer on the website more smooth and intuitive. This includes  Upcoming Contests,  Contest Registration,  Post Match Results,  Editorials,  Problem Archives,  Leaderboard and Statistics Details about different types of competitions Competing and Getting Started Guides and Tutorials Problem Writing and Testing Guides and Tutorials
